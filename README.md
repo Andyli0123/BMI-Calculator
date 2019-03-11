@@ -1,1 +1,1 @@
-# Python
+# BMI Calculator
