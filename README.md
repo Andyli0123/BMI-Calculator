@@ -1,4 +1,4 @@
-# BMI Calculator - BMI計算器
+# BMI Calculator - BMI 計算器
 ### Features
 * Support Multi-language! (English, Traditional Chinese)
 * Determine the range of weight, normal, too light, too heavy, mild obesity, moderate obesity and severe obesity.
